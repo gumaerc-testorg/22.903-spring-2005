@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab4c5133-6676-6c33-2cd3-8c0af348f1ae
 resourcetype: Document
 title: Midterm Presentation Topics
 uid: f60348f8-ee9e-7def-a212-c4dfca8c8f11
