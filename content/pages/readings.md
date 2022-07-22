@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides a list of readings on photon and neutron scattering,
+  electromagnetic theory and special relativity, synchrotron radiation, and statistical
+  physics.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 45433471-4531-ec62-1f58-3072f60e059f
 ---
