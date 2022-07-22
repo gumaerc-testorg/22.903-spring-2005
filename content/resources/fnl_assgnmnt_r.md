@@ -6,6 +6,7 @@ file: /courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applica
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Term Paper Topics Assignment
 uid: 98c48d27-0b5c-8f4e-ae90-9e436c3beaf9
 ---
 Topics for a final paper assignment on photon and neutron scattering spectroscopy.
-
