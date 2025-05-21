@@ -2,7 +2,7 @@
 content_type: resource
 description: Topics for a midterm paper assignment on photon and neutron scattering
   spectroscopy.
-file: /ol-ocw-studio-app/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/f60348f8ee9e7defa212c4dfca8c8f11_mdtrm_assgnmnt_r.pdf
+file: /courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/f60348f8ee9e7defa212c4dfca8c8f11_mdtrm_assgnmnt_r.pdf
 file_size: 11295
 file_type: application/pdf
 learning_resource_types:
