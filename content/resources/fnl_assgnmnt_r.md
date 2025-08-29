@@ -2,7 +2,7 @@
 content_type: resource
 description: Topics for a final paper assignment on photon and neutron scattering
   spectroscopy.
-file: /courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/98c48d270b5c8f4eae909e436c3beaf9_fnl_assgnmnt_r.pdf
+file: /ol-ocw-studio-app/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/98c48d270b5c8f4eae909e436c3beaf9_fnl_assgnmnt_r.pdf
 file_size: 11416
 file_type: application/pdf
 learning_resource_types:
